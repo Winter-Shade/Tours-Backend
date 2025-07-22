@@ -6,10 +6,10 @@ Clone your forked repository
  - git clone  https://github.com/Winter-Shade/Tours-Backend.git           
 Navigate to root directory and run     
 
-- npm install
-Rename config.sample.env to config.env and fill all your environment details    
+- npm install         
+Rename config.sample.env to config.env and fill all your environment details         
 
-To start the server   
+To start the server        
 
 - npm run start:dev
 
