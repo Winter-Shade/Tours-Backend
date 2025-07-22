@@ -3,7 +3,7 @@ To run Natours on your local machine run the following commands
 
 Clone your forked repository
 
- - git clone        
+ - git clone  https://github.com/Winter-Shade/Tours-Backend.git           
 Navigate to root directory and run     
 
 - npm install
